@@ -2,7 +2,7 @@
 
 Réalisation d'un site statique en html et css only, déployé sur Githubpages, [Flood](https://ysalien.github.io/Flood/).
 
-Mais histoire de dire, la structure a également été réalisée en RoR.
+Mais histoire de dire, la structure a également été réalisée en RoR (pour tester en local : git clone le repo + rails s).
 
 ## Compo
 
